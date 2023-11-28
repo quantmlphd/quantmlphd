@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @quantmlphd
+- 👀 I’m interested in Quantum Computing
+- 🌱 I’m currently learning: Optimization, Machine Learning, Quantum Computing, Computer Science
+- 💞️ I’m looking to collaborate for a research project
+- 📫 How to reach me gittomasi@gmail.com
